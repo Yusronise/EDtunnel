@@ -9,7 +9,7 @@ pattern = "iseee.us.kg"
 custom_domain = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
+PROXYIP = "206.237.98.76:587"
 UUID = "323dad2b-a854-4298-883f-88ab2dd9d964"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
